@@ -1,6 +1,6 @@
 ### Olá, sou a Marcela! 😄
 
-Aqui vou postando um pouco sobre o meus estudos e análises da área de dados.
+Aqui vou postando um pouco sobre o meus estudos e análises na área de dados.
 
 Podem me encontrar:
 
