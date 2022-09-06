@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá, sou a Marcela! 😄
+
+Aqui vou postando um pouco sobre o meus estudos e análises da área de dados.
+
+Podem me encontrar:
+
+[LinkedIn](https://www.linkedin.com/in/marcela-coury-pinto-8a8815181/)
 
 <!--
 **marcelacoury/marcelacoury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
